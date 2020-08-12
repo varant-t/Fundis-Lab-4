@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\vv_ti\OneDrive\Desktop\Lab\BST\BST.h(323): warning C4715: 'BST<int,Player>::find': not all control paths return a value
+  BST.vcxproj -> C:\Users\vv_ti\OneDrive\Desktop\Lab\BST\Debug\BST.exe
